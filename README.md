@@ -2,4 +2,4 @@
 
 # Techtonic Apprenticeship - Technical Screen Part 2
 
-This a code challenge/test provided by Testdome. 
+This is a code challenge/test provided by Testdome. 

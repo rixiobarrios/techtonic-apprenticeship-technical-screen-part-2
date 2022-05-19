@@ -1,1 +1,5 @@
-![Techtonic_Logo](https://user-images.githubusercontent.com/55994508/169405548-f4dd563c-dbc6-466a-99e8-a72dc7e695b5.jpg)
+![techtonic](https://user-images.githubusercontent.com/55994508/95472622-e1788780-0948-11eb-9e3e-1cd36200d84c.jpg)
+
+# Techtonic Apprenticeship - Technical Screen Part 2
+
+This a code challenge/test provided by Testdome. 
